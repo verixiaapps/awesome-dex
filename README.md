@@ -84,6 +84,8 @@ A curated list of Decentralized Exchange, Decentralized Exchange Protocol and Wa
   - [Starteos](https://wallet.starteos.io/)
   - [TokenPocket](https://www.mytokenpocket.vip/)
   - [Trust](https://trustwalletapp.com/)
+- [HostDeFi](https://hostdefi.com) - Token-safety scanner and multi-chain DEX front-end: free A+–F risk grades on Solana and 8 EVM chains plus a keyless REST API.
+
 
 - Desktop Wallets
 
